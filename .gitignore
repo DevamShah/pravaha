@@ -23,3 +23,16 @@ Thumbs.db
 
 # Docker volumes
 pravaha-pgdata/
+
+# Secrets — NEVER commit
+.env
+.env.*
+**/.env
+**/.env.*
+
+# OS cruft
+.DS_Store
+
+# Next.js build artifacts
+next-env.d.ts
+*.tsbuildinfo

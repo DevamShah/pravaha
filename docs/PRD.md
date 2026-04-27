@@ -1,3 +1,12 @@
+---
+tags:
+  - archeon
+  - forgeon
+  - product
+  - product-doc
+  - product-pravaha
+---
+
 # Pravaha — Product Requirements Document v1.0
 
 **Product:** Pravaha

@@ -1,3 +1,12 @@
+---
+tags:
+  - archeon
+  - forgeon
+  - product
+  - product-doc
+  - product-pravaha
+---
+
 # Pravaha — Sprint Plan
 
 **Date:** 2026-03-30

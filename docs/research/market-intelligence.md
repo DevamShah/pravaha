@@ -1,3 +1,12 @@
+---
+tags:
+  - archeon
+  - forgeon
+  - product
+  - product-doc
+  - product-pravaha
+---
+
 # Pravaha — Market Intelligence Report
 
 **Date:** 2026-03-30

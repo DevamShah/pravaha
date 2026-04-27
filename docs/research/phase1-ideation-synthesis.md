@@ -1,3 +1,12 @@
+---
+tags:
+  - archeon
+  - forgeon
+  - product
+  - product-doc
+  - product-pravaha
+---
+
 # Pravaha — Phase 1 Ideation Synthesis
 
 **Product:** Pravaha (Sanskrit: "continuous stream/flow")
